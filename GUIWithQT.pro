@@ -1,7 +1,13 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-    P05_HelloWinDesigner \
+    GUIWithQt.pro \
+    P01_Hello \
+    P02_HelloWin \
+    P03_HelloWinRus \
+    P04_HelloWinDesigner \
+    P05_HelloQWidget \
+    P06_HelloWinDesigner \
     P07_resize \
     P08_setgeom \
     P09_hboxlayout \
